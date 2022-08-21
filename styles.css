@@ -9,10 +9,23 @@
 }
 
 .nav {
+    padding:10px;
     text-align: right;
-
 }
 
 #form {
     text-align: center;
+    font-size: large;
+}
+
+.sbar {
+    width: 500px;
+    height: 35px;
+    border-radius: 30px;
+    border-width: 1px;
+}
+
+div > input {
+    width:130px; 
+    height:30px;
 }
