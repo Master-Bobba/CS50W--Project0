@@ -25,12 +25,18 @@
     border-width: 1px;
     font-size: 17px;
     padding-left: 10px;
-
-    
+    color: black;
+    border-color: darkgray;
 }
 
-div > input {
+div > input{
     width:130px; 
     height:30px;
+}
 
+.sbar2{
+    width: 500px;
+    height: 35px;
+    font-size: 17px;
+    text-align: center;
 }
