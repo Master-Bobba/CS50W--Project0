@@ -8,4 +8,4 @@ Objectives:
 2. Make it look like Google as much as possible
 
 
-Resourves provided: https://cs50.harvard.edu/web/2020/projects/0/search/
+Resources provided: https://cs50.harvard.edu/web/2020/projects/0/search/
