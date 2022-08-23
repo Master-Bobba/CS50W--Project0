@@ -1,6 +1,8 @@
 Project: Search
 Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
+Status: --In progress--
+
 Objectives:
 1. Implement: Google search, image search and advance search
 2. Make it look like Google as much as possible

@@ -38,5 +38,12 @@ div > input{
     width: 500px;
     height: 35px;
     font-size: 17px;
-    text-align: center;
+}
+
+#asearch {
+    color:white;
+    background-color: blue;
+    margin-left: 590px;
+    margin-top: 10px;
+
 }
